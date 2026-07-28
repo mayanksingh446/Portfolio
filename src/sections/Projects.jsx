@@ -5,7 +5,7 @@ const projects = [
     title: "Hotel Booking System",
     description:
       "A full-stack hotel booking platform where users can explore hotels, check room availability, book stays, manage reservations, and make secure online payments. Features user authentication, hotel management, booking history, admin dashboard, and responsive design.",
-    image: "/public/hotel.jpg.png",
+    image: "/hotel.jpg.png",
     tags: [
       "React.js",
       "Node.js",
@@ -21,7 +21,7 @@ const projects = [
     title: "Book Store",
     description:
       "A MERN-based online bookstore that allows users to browse books through a responsive interface with a REST API backend and MongoDB database.",
-    image: "/public/book.jpg.png",
+    image: "/book.jpg.png",
     tags: ["React", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
     link: "#",
     github: "https://github.com/mayanksingh446",
@@ -30,7 +30,7 @@ const projects = [
     title: "Video Meeting App",
     description:
       "A real-time video conferencing application with WebRTC and Socket.IO supporting video calls, screen sharing, chat, and multiple participants.",
-    image: "../public/zoom.jpg.png",
+    image: "/zoom.jpg.png",
     tags: ["React", "WebRTC", "Socket.IO", "Node.js", "Express.js"],
     link: "#",
     github: "https://github.com/mayanksingh446",
@@ -39,7 +39,7 @@ const projects = [
     title: "Personal Portfolio",
     description:
       "A modern, responsive developer portfolio showcasing projects, skills, and experience with smooth animations, dark mode, and an optimized user interface.",
-    image: "/public/profile.jpg.png",
+    image: "/profile.jpg.png",
     tags: ["React", "Tailwind CSS", "TypeScript", "Framer Motion"],
     link: "#",
     github: "https://github.com/mayanksingh446",
