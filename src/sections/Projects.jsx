@@ -30,7 +30,7 @@ const projects = [
     title: "Video Meeting App",
     description:
       "A real-time video conferencing application with WebRTC and Socket.IO supporting video calls, screen sharing, chat, and multiple participants.",
-    image: "/public/zoom.jpg.png",
+    image: "../public/zoom.jpg.png",
     tags: ["React", "WebRTC", "Socket.IO", "Node.js", "Express.js"],
     link: "#",
     github: "https://github.com/mayanksingh446",
