@@ -100,7 +100,7 @@ export const Hero = () => {
                 Contact Me <ArrowRight className="w-5 h-5" />
               </Button>
               <a
-                href="/public/resume.pdf"
+                href="/resume.pdf"
                 download="Mayank_Singh_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
